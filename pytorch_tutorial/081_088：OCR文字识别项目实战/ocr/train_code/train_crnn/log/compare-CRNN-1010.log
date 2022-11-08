@@ -1,0 +1,7 @@
+filename:./train_data/data/1.jpg
+pred  :
+target:车这次决定大规模裁员
+filename:./train_data/data/2.jpg
+pred  :
+target:天就算是教训教训你们
+ocr_correct: 0/2/0.0
